@@ -33,22 +33,22 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/santosediego/dsdeliver-sds2.git
 
-# entrar na pasta do projeto back end
+#entrar na pasta do projeto back end
 cd backend
 
-# executar o projeto
+#executar o projeto
 ./mvnw spring-boot:run
 Front end web
 Pré-requisitos: npm / yarn
 
-# clonar repositório
+#clonar repositório
 git clone https://github.com/santosediego/dsdeliver-sds2.git
 
-# entrar na pasta do projeto front end web
+#entrar na pasta do projeto front end web
 cd front-web
 
-# instalar dependências
+#instalar dependências
 npm install
 
-# executar o projeto
+#executar o projeto
 npm start
